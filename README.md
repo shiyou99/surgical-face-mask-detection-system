@@ -17,5 +17,6 @@ This project is to create a simple surgical face mask detection system based on 
 ![nomask](sample_output/no_mask.png)
 
 ## Limitations of the current project:
-### * Facing difficulties in detecting faces with low light and low quality webcams.
-### * Detection cannot work well while wearing glasses.
+***
+* Facing difficulties in detecting faces with low light and low quality webcams.
+* Detection cannot work well while wearing glasses.
